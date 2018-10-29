@@ -10,7 +10,7 @@ h3,
 h4,
 h5,
 h6 {
-	color:#721c24;
+	color:#BA2D0B;
 	margin: 0;
 	font-weight: 500;
 	font-family: 'Rubik', sans-serif;
@@ -77,6 +77,7 @@ ol {
 .spad {
 	padding-top: 90px;
 	padding-bottom: 90px;
+	background-color: #65AFFF;
 }
 
 .section-title {
@@ -290,7 +291,7 @@ ol {
 }
 
 .nav-section {
-	background: #a63125;
+	background: #1B2845;
 }
 
 
@@ -316,11 +317,11 @@ ol {
 }
 
 .main-menu li a:hover {
-	background: #1b7bad;
+	background: #65AFFF;
 }
 
 .main-menu li.active a {
-	background: #1b7bad;
+	background: #65AFFF;
 }
 
 /*---------------------
@@ -354,7 +355,7 @@ ol {
 }
 
 .hs-item .hs-title {
-	color:#a63125;
+	color:#DE541E;
 	font-size: 48px;
 	margin-bottom: 25px;
 	position: relative;
@@ -921,7 +922,7 @@ ol {
 -----------------------*/
 
 .newsletter-section {
-	background: #f7f7f7;
+	background:  #65AFFF;
 	padding: 50px 0;
 }
 
@@ -1075,6 +1076,7 @@ ol {
 	padding: 60px 0;
 	color: #b7b7b7;
 	font-size: 18px;
+	background-color: #65AFFF;
 }
 
 .site-breadcrumb a {
